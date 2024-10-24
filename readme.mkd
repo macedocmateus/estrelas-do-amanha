@@ -1,0 +1,41 @@
+<h1 align="center"> ⭐ Estrelas do amanhã ⭐ </h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos HTML e CSS.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de um formulário para matricular de atividades escolares" src="./capa-readme.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Git e GitHub
+-   Figma
+
+## 💻 Projeto
+
+Estrelas do amanhã é uma landing page de um formulário de matrícula de atividades escolares, o usuário com intuito do usuário cadastrar seu filho em uma das atividades da escolas como futebol, basquete e etc <a href="https://estrelas-do-amanha.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/omH6M6hiDG5jhCnJSJTIOh/Formul%C3%A1rio-de-matr%C3%ADcula-(Community)?node-id=0-1&node-type=canvas&t=oA8oQJMxc7akwNSS-0">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
